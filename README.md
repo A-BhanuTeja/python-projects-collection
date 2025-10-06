@@ -22,6 +22,11 @@ Play Rock, Paper, Scissors against the computer!
 ✅ **Concepts used:** `random`, loops, conditionals, and user input.  
 📂 **File:** `Rock, Paper, Scissors.py`
 
+### 🏞️ 4. Adventure Game
+A text-based adventure where you make choices to survive and win.  
+✅ **Concepts used:** nested `if-else`, user input, string methods, multiple endings.  
+📂 **File:** `Adventure Game.py`
+
 ---
 
 ## 🧠 About This Folder
